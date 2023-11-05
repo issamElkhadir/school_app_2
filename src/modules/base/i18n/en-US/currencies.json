@@ -1,0 +1,24 @@
+{
+  "currencies": {
+    "title": "Currencies",
+    "create": "Create Currency",
+    "edit": "Edit Currency",
+    "delete": "Delete Currency",
+    "show": "Show Currency",
+    "import": "Import Currencies",
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "status": "Status",
+      "symbol_native": "Symbol Native",
+      "decimal_digits": "Decimal Digits",
+      "rounding": "Rounding",
+      "symbol": "Symbol",
+      "name_plural": "Name Plural"
+    }
+  }
+}

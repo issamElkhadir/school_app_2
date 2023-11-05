@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "strict": true,
+    "paths": {
+      "@/*": ["src/*"],
+      "@base/*": ["src/modules/base/*"],
+      "@education/*": ["src/modules/education/*"],
+    }
+  }
+}

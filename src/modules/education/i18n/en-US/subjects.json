@@ -1,0 +1,19 @@
+{
+  "subjects": {
+    "title": "Subjects",
+    "create": "Create Subject",
+    "edit": "Edit Subject",
+    "delete": "Delete Subject",
+    "show": "Show Subject",
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "color": "Color",
+      "massar_id": "Massar ID",
+      "order": "Order",
+      "picture": "Picture",
+      "unity": "Unity",
+      "classroomTypes": "Classroom Types"
+    }
+  }
+}

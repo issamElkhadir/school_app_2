@@ -1,0 +1,9 @@
+{
+  "general": {
+    "direction": "ltr",
+    "delete": "Do you really want to remove {count} record? What you've done cannot be undone.|Do you really want to remove {count} records? What you've done cannot be undone.",
+    "btn-delete": "Delete {count} item|Delete {count} items",
+    "btn-save": "Save",
+    "btn-cancel": "Cancel"
+  }
+}

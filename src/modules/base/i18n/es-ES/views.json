@@ -1,0 +1,13 @@
+{
+  "views": {
+    "modes": {
+      "table": "Tabla",
+      "kanban": "Kanban",
+      "calendar": "Calendario"
+    },
+
+    "table": {
+      "pagination": "Mostrando <span>{from}</span> a <span>{to}</span> de <span>{rowsNumber}</span> entradas"
+    }
+  }
+}

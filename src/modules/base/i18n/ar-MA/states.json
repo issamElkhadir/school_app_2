@@ -1,0 +1,25 @@
+{
+  "states": {
+    "title": "الولايات",
+    "create": "إنشاء ولاية",
+    "edit": "تعديل الولاية",
+    "delete": "حذف الولاية",
+    "show": "عرض الولاية",
+    "status": {
+      "active": "نشط",
+      "inactive": "غير نشط"
+    },
+    "fields": {
+      "id": "المعرف",
+      "name": "الاسم",
+      "country": "الدولة",
+      "country_code": "كود الدولة",
+      "fips_code": "كود FIPS",
+      "iso2": "كود ISO2",
+      "type": "النوع",
+      "latitude": "خط العرض",
+      "longitude": "خط الطول",
+      "flag": "العلم"
+    }
+  }
+}

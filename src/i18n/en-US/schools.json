@@ -1,0 +1,43 @@
+{
+  "schools": {
+    "title": "Schools",
+    "create": "Create School",
+    "edit": "Edit School",
+    "delete": "Delete School",
+    "show": "Show School",
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "rtl_name": "Rtl name",
+      "short_name": "Short name",
+      "active": "Active",
+      "authorization_date": "Authorization date",
+      "authorization_number": "Authorization number",
+      "authorization_information": "Authorization information",
+      "rtl_authorization_information": "Rtl authorization information",
+      "cnss": "CNSS",
+      "ice": "ICE",
+      "rc": "RC",
+      "establishment_type": "Establishment type",
+      "responsible_name": "Responsible name",
+      "responsible_phone_number": "Responsible phone number",
+
+      "contact_address": "Contact address",
+      "contact_rtl_address": "Contact rtl address",
+      "contact_name": "Contact name",
+      "contact_email": "Contact email",
+      "contact_whatsapp": "Contact whatsapp",
+      "contact_website": "Contact website",
+      "contact_phone_1": "Contact phone 1",
+      "contact_phone_2": "Contact phone 2",
+      "contact_mobile_1": "Contact mobile 1",
+      "contact_mobile_2": "Contact mobile 2",
+      "contact_fax_1": "Contact fax 1",
+      "contact_fax_2": "Contact fax 2",
+      "country": "Country",
+      "city": "City",
+      "zip_code": "Zip code",
+      "contact_street": "Contact street"
+    }
+  }
+}

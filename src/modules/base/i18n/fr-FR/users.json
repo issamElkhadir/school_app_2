@@ -1,0 +1,28 @@
+{
+  "users": {
+    "title": "Utilisateurs",
+    "create": "Créer un utilisateur",
+    "edit": "Modifier un utilisateur",
+    "delete": "Supprimer un utilisateur",
+    "show": "Voir un utilisateur",
+    "import": "Importer des utilisateurs",
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+    "theme": {
+      "light": "Clair",
+      "dark": "Sombre",
+      "auto": "Automatique"
+    },
+    "fields": {
+      "id": "ID",
+      "first_name": "Prénom",
+      "last_name": "Nom",
+      "email": "Email",
+      "theme": "Thème",
+      "status": "Statut",
+      "language": "Langue"
+    }
+  }
+}

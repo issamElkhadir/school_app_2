@@ -1,0 +1,20 @@
+{
+  "academic-years": {
+    "title": "Academic Years",
+    "create": "Create Academic Year",
+    "edit": "Edit Academic Year",
+    "delete": "Delete Academic Year",
+    "show": "Show Academic Year",
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "rtl_name": "Rtl Name",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "status": "Status",
+      "is_locked": "Is Locked",
+      "parent_academic_year_name": "Parent Academic Year Name",
+      "parentAcademicYear": "Parent Academic Year "
+    }
+  }
+}

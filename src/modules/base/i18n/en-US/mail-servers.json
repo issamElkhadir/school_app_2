@@ -1,0 +1,32 @@
+{
+  "mail-servers": {
+    "title": "Mail Servers",
+    "create": "Create Mail Server",
+    "edit": "Edit Mail Server",
+    "delete": "Delete Mail Server",
+    "show": "Show Mail Server",
+    
+    "encryptions": {
+      "none": "None",
+      "ssl": "SSL",
+      "tls": "TLS"
+    },
+
+    "statuses": {
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "active": "Active",
+      "priority": "Priority",
+      "username": "Username",
+      "smtp_host": "SMTP Host",
+      "smtp_port": "SMTP Port",
+      "smtp_encryption": "SMTP Encryption",
+      "password": "Password"
+    }
+  }
+}

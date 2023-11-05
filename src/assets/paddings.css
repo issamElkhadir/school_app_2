@@ -1,0 +1,27 @@
+.py-03 {
+  padding-block: calc(var(--tblr-spacer) * .15) !important;
+}
+
+.px-03 {
+  padding-inline: calc(var(--tblr-spacer) * .15) !important;
+}
+
+.ps-03 {
+  padding-inline-start: calc(var(--tblr-spacer) * .15) !important;
+}
+
+.pe-03 {
+  padding-inline-end: calc(var(--tblr-spacer) * .15) !important;
+}
+
+.pt-03 {
+  padding-block-start: calc(var(--tblr-spacer) * .15) !important;
+}
+
+.pb-03 {
+  padding-block-end: calc(var(--tblr-spacer) * .15) !important;
+}
+
+.p-03 {
+  padding: calc(var(--tblr-spacer) * .15) !important;
+}

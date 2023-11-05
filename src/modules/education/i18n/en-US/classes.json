@@ -1,0 +1,18 @@
+{
+  "classes": {
+    "title": "Classes",
+    "create": "Create Class",
+    "edit": "Edit Class",
+    "delete": "Delete Class",
+    "show": "Show Class",
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "rtl_name": "Rtl Name",
+      "status": "Status",
+      "school": "School",
+      "level": "Level",
+      "parentClass": "Parent Class"
+    }
+  }
+}

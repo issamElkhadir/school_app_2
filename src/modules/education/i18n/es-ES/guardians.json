@@ -1,0 +1,24 @@
+{
+  "guardians": {
+    //es-ES
+    "title": "Tutores",
+    "create": "Crear tutor",
+    "edit": "Editar tutor",
+    "delete": "Eliminar tutor",
+    "show": "Mostrar tutor",
+    "fields": {
+      "id": "Id",
+      "first_name": "Nombre",
+      "last_name": "Apellido",
+      "rtl_first_name": "RTL Nombre",
+      "rtl_last_name": "RTL Apellido",
+      "cni_number": "CNI",
+      "home_phone": "Teléfono fijo",
+      "mobile_phone": "Teléfono móvil",
+      "email_address": "Correo electrónico",
+      "country": "País",
+      "city": "Ciudad",
+      "gender": "Género"
+    }
+  }
+}

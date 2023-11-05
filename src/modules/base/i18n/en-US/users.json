@@ -1,0 +1,28 @@
+{
+  "users": {
+    "title": "Users",
+    "create": "Create User",
+    "edit": "Edit User",
+    "delete": "Delete User",
+    "show": "Show User",
+    "import": "Import Users",
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+    "theme": {
+      "light": "Light",
+      "dark": "Dark",
+      "auto": "Auto"
+    },
+    "fields": {
+      "id": "ID",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "email": "Email",
+      "theme": "Theme",
+      "status": "Status",
+      "language": "Language"
+    }
+  }
+}

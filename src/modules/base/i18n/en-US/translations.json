@@ -1,0 +1,18 @@
+{
+  "translations": {
+    "title": "Translations",
+    "create": "Create Translation",
+    "edit": "Edit Translation",
+    "delete": "Delete Translation",
+    "show": "Show Translation",
+    
+    "fields": {
+      "id": "ID",
+      "value": "Value",
+      "key": "Key",
+      "module": "Module",
+      "model": "Model",
+      "language": "Language"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "guardians": {
+    //ar-MA
+    "title": "الأوصياء",
+    "create": "إنشاء وصي",
+    "edit": "تعديل وصي",
+    "delete": "حذف وصي",
+    "show": "عرض وصي",
+    "fields": {
+      "id": "الرقم",
+      "first_name": "الاسم الأول",
+      "last_name": "الاسم الأخير",
+      "rtl_first_name": "الاسم الأول",
+      "rtl_last_name": "الاسم الأخير",
+      "cni_number": "رقم البطاقة الوطنية",
+      "home_phone": "رقم الهاتف الثابت",
+      "mobile_phone": "رقم الهاتف المحمول",
+      "email_address": "البريد الإلكتروني",
+      "country": "البلد",
+      "city": "المدينة",
+      "gender": "الجنس"
+    }
+  }
+}

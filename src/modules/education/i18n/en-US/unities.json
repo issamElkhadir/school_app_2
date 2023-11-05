@@ -1,0 +1,16 @@
+{
+  "unities": {
+    "title": "Unities",
+    "create": "Create Unity",
+    "edit": "Edit Unity",
+    "delete": "Delete Unity",
+    "show": "Show Unity",
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "rtl_name": "Rtl Name",
+      "status": "Status",
+      "short_name": "Short Name"
+    }
+  }
+}

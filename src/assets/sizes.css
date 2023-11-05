@@ -1,0 +1,80 @@
+.lvh-100 {
+  height: 100lvh;
+}
+
+.lvh-75 {
+  height: 75lvh;
+}
+
+.lvh-50 {
+  height: 50lvh;
+}
+
+.lvh-25 {
+  height: 25lvh;
+}
+
+.svh-100 {
+  height: 100svh;
+}
+
+.svh-75 {
+  height: 75svh;
+}
+
+.svh-50 {
+  height: 50svh;
+}
+
+.svh-25 {
+  height: 25svh;
+}
+
+.lvw-100 {
+  width: 100lvw;
+}
+
+.lvw-75 {
+  width: 75lvw;
+}
+
+.lvw-50 {
+  width: 50lvw;
+}
+
+.lvw-25 {
+  width: 25lvw;
+}
+
+.svw-100 {
+  width: 100svw;
+}
+
+.svw-75 {
+  width: 75svw;
+}
+
+.svw-50 {
+  width: 50svw;
+}
+
+.svw-25 {
+  width: 25svw;
+}
+
+/* Widths */
+.w-30 {
+  width: 30%;
+}
+
+.min-w-30 {
+  width: 30%;
+}
+
+.w-10 {
+  width: 10%;
+}
+
+.min-w-10 {
+  width: 10%;
+}

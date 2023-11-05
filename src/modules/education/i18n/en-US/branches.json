@@ -1,0 +1,18 @@
+{
+  "branches": {
+    "title": "Branches",
+    "create": "Create Branch",
+    "edit": "Edit Branch",
+    "delete": "Delete Branch",
+    "show": "Show Branch",
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "rtl_name": "Rtl Name",
+      "status": "Status",
+      "description": "Description",
+      "short_name": "Short Name",
+      "cycle": "Cycle"
+    }
+  }
+}

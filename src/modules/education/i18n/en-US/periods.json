@@ -1,0 +1,17 @@
+{
+  "periods": {
+    "title": "Periods",
+    "create": "Create Period",
+    "edit": "Edit Period",
+    "delete": "Delete Period",
+    "show": "Show Period",
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "rtl_name": "Rtl Name",
+      "status": "Status",
+      "start_date": "Start Date",
+      "end_date": "End Date"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sequences": {
+    "title": "Sequences",
+    "create": "Create Sequence",
+    "edit": "Edit Sequence",
+    "delete": "Delete Sequence",
+    "show": "Show Sequence",
+
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "code": "Code",
+      "start_value": "Start Value",
+      "end_value": "End Value",
+      "next_value": "Next Value",
+      "length": "Length",
+      "prefix": "Prefix",
+      "suffix": "Suffix",
+      "step": "Step",
+      "school": "School"
+    }
+  }
+}

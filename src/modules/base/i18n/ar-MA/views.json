@@ -1,0 +1,12 @@
+{
+  "views": {
+    "modes": {
+      "table": "جدول",
+      "kanban": "لوحة",
+      "calendar": "تقويم"
+    },
+    "table": {
+      "pagination": "عرض <span> {from} </span> إلى <span> {to} </span> من <span> {rowsNumber} </span> من الإدخالات"
+    }
+  }
+}

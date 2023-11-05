@@ -1,0 +1,29 @@
+{
+  "measure-units": {
+    "title": "Measure Units",
+    "create": "Create Measure Unit",
+    "edit": "Edit Measure Unit",
+    "delete": "Delete Measure Unit",
+    "show": "Show Measure Unit",
+
+    "types": {
+      "smaller": "Smaller than reference Unit of Measure",
+      "reference": "Reference Unit of Measure for this category",
+      "bigger": "Bigger than reference Unit of Measure"
+    },
+
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "active": "Active",
+      "ratio": "Ratio",
+      "type": "Type",
+      "category": "Category"
+    }
+  }
+}

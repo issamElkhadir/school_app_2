@@ -1,0 +1,36 @@
+.rotate-0 {
+  transform: rotate(0deg);
+}
+
+.rotate-90 {
+  transform: rotate(90deg);
+}
+
+.rotate-180 {
+  transform: rotate(180deg);
+}
+
+.rotate-270 {
+  transform: rotate(270deg);
+}
+
+.rotate-360 {
+  transform: rotate(360deg);
+}
+
+/* Rotate negative */
+.rotate-n-90 {
+  transform: rotate(-90deg);
+}
+
+.rotate-n-180 {
+  transform: rotate(-180deg);
+}
+
+.rotate-n-270 {
+  transform: rotate(-270deg);
+}
+
+.rotate-n-360 {
+  transform: rotate(-360deg);
+}

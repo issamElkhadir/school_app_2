@@ -1,0 +1,17 @@
+{
+  "cycles": {
+    "title": "Cycles",
+    "create": "Create Cycle",
+    "edit": "Edit Cycle",
+    "delete": "Delete Cycle",
+    "show": "Show Cycle",
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "rtl_name": "Rtl Name",
+      "status": "Status",
+      "description": "Description",
+      "short_name": "Short Name"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "staff": {
+    "title": "Staff",
+    "create": "Create Staff",
+    "edit": "Edit Staff",
+    "delete": "Delete Staff",
+    "show": "Show Staff",
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "salary": "Salary",
+      "week_hours": "Week Hours"
+    }
+  }
+}

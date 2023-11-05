@@ -1,0 +1,25 @@
+{
+  "states": {
+    "title": "States",
+    "create": "Create State",
+    "edit": "Edit State",
+    "delete": "Delete State",
+    "show": "Show State",
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "country": "Country",
+      "country_code": "Country Code",
+      "fips_code": "Fips Code",
+      "iso2": "ISO 2",
+      "type": "Type",
+      "latitude": "Latitude",
+      "longitude": "longitude",
+      "flag": "Flag"
+    }
+  }
+}

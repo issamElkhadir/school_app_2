@@ -1,0 +1,28 @@
+{
+  "users": {
+    "title": "Usuarios",
+    "create": "Crear un usuario",
+    "edit": "Editar un usuario",
+    "delete": "Eliminar un usuario",
+    "show": "Mostrar un usuario",
+    "import": "Importar usuarios",
+    "status": {
+      "active": "Activo",
+      "inactive": "Inactivo"
+    },
+    "theme": {
+      "light": "Claro",
+      "dark": "Oscuro",
+      "auto": "Automático"
+    },
+    "fields": {
+      "id": "ID",
+      "first_name": "Nombre",
+      "last_name": "Apellido",
+      "email": "Correo electrónico",
+      "theme": "Tema",
+      "status": "Estado",
+      "language": "Idioma"
+    }
+  }
+}

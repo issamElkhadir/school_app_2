@@ -1,0 +1,29 @@
+{
+  "countries": {
+    "title": "Countries",
+    "create": "Create Country",
+    "edit": "Edit Country",
+    "delete": "Delete Country",
+    "show": "Show Country",
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "phone_code": "Phone Code",
+      "native": "Native Name",
+      "longitude": "Longitude",
+      "region": "Region",
+      "iso3": "ISO 3",
+      "iso2": "ISO 2",
+      "numeric_code": "Numeric Code",
+      "capital": "Capital",
+      "currency": "Currency",
+      "currency_name": "Currency Name",
+      "currency_symbol": "Currency Symbol",
+      "tld": "TLD",
+      "subregion": "Subregion",
+      "latitude": "Latitude",
+      "emoji": "Emoji",
+      "emoji_u": "Emoji U"
+    }
+  }
+}

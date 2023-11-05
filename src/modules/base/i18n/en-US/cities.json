@@ -1,0 +1,21 @@
+{
+  "cities": {
+    "title": "Cities",
+    "create": "Create City",
+    "edit": "Edit City",
+    "delete": "Delete City",
+    "show": "Show City",
+    
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "flag": "Flag",
+      "country": "Country",
+      "state": "State",
+      "country_code": "Country Code",
+      "state_code": "State Code",
+      "latitude": "Latitude",
+      "longitude": "Longitude"
+    }
+  }
+}

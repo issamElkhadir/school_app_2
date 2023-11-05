@@ -1,0 +1,51 @@
+.btn {
+  box-shadow: none !important;
+}
+
+body {
+  background-color: white !important;
+}
+
+body[data-bs-theme='dark'] {
+  background-color: var(--tblr-dark) !important;
+}
+
+.scroll-x-hidden::-webkit-scrollbar {
+  height: 0 !important;
+}
+
+.scroll-x-hidden {
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+  -ms-scroll-chaining: contain auto;
+  overscroll-behavior: contain auto;
+}
+
+.scroll-y-hidden::-webkit-scrollbar {
+  width: 0 !important;
+}
+
+.scroll-y-hidden {
+  overflow-x: hidden;
+  overflow-y: auto;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+  -ms-scroll-chaining: contain auto;
+  overscroll-behavior: contain auto;
+}
+
+.scroll-hidden::-webkit-scrollbar {
+  height: 0 !important;
+  width: 0 !important;
+}
+
+.scroll-hidden {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+  -ms-scroll-chaining: contain auto;
+  overscroll-behavior: contain auto;
+}

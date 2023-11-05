@@ -1,0 +1,18 @@
+{
+  "levels": {
+    "title": "Levels",
+    "create": "Create Level",
+    "edit": "Edit Level",
+    "delete": "Delete Level",
+    "show": "Show Level",
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "rtl_name": "Rtl Name",
+      "status": "Status",
+      "description": "Description",
+      "short_name": "Short Name",
+      "branch": "Branch"
+    }
+  }
+}

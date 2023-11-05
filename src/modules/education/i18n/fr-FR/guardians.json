@@ -1,0 +1,24 @@
+{
+  "guardians": {
+    //fr-FR
+    "title": "Les tuteurs",
+    "create": "Créer un tuteur",
+    "edit": "Modifier un tuteur",
+    "delete": "Supprimer un tuteur",
+    "show": "Afficher un tuteur",
+    "fields": {
+      "id": "ID",
+      "first_name": "Prénom",
+      "last_name": "Nom",
+      "rtl_first_name": "RTL Prénom",
+      "rtl_last_name": "RTL Nom",
+      "cni_number": "Numéro CNI",
+      "home_phone": "Téléphone fixe",
+      "mobile_phone": "Téléphone mobile",
+      "email_address": "Adresse email",
+      "country": "Pays",
+      "city": "Ville",
+      "gender": "Genre"
+    }
+  }
+}

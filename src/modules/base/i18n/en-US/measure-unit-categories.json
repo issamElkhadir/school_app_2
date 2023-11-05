@@ -1,0 +1,13 @@
+{
+  "measure-unit-categories": {
+    "title": "UOM Categories",
+    "create": "Create UOM Category",
+    "edit": "Edit UOM Category",
+    "delete": "Delete UOM Category",
+    "show": "Show UOM Category",
+    "fields": {
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

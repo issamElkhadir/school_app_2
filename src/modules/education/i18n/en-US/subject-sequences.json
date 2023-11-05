@@ -1,0 +1,16 @@
+{
+  "subject-sequences": {
+    "title": "Subject Sequences",
+    "create": "Create Sequence",
+    "edit": "Edit Sequence",
+    "delete": "Delete Sequence",
+    "show": "Show Sequence",
+    "fields": {
+      "id": "ID",
+      "content": "Content",
+      "nbh": "NBH",
+      "status": "Status",
+      "subject": "Subject"
+    }
+  }
+}

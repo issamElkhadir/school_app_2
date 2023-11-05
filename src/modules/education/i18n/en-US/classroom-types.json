@@ -1,0 +1,15 @@
+{
+  "classroom-types": {
+    "title": "Classroom Types",
+    "create": "Create Classroom Type",
+    "edit": "Edit Classroom Type",
+    "delete": "Delete Classroom Type",
+    "show": "Show Classroom Type",
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "rtl_name": "Rtl Name",
+      "status": "Status"
+    }
+  }
+}

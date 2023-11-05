@@ -1,0 +1,18 @@
+{
+  "classrooms": {
+    "title": "Classrooms",
+    "create": "Create Classroom",
+    "edit": "Edit Classroom",
+    "delete": "Delete Classroom",
+    "show": "Show Classroom",
+    "fields": {
+      "id": "ID",
+      "name": "Name",
+      "capacity": "Capacity",
+      "image": "Image",
+      "rtl_name": "Rtl Name",
+      "school": "School",
+      "classroomType": "Classroom Type"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "guardians": {
+    "title": "Guardians",
+    "create": "Create Guardian",
+    "edit": "Edit Guardian",
+    "delete": "Delete Guardian",
+    "show": "Show Guardian",
+
+    "fields": {
+      "id": "ID",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "rtl_first_name": "RTL First Name",
+      "rtl_last_name": "RTL Last Name",
+      "cni_number": "CNI Number",
+      "home_phone": "Home Phone",
+      "mobile_phone": "Mobile Phone",
+      "email_address": "Email Address",
+      "country": "Country",
+      "city": "City",
+      "gender": "Gender"
+    }
+  }
+}
